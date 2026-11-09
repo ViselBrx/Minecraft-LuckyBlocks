@@ -5,14 +5,14 @@ Um pacote de mods e addons de Lucky Block para **Minecraft 1.8**. A ideia é reu
 > Dica: baixe sempre a última versão do Minecraft Forge ou de qualquer versão do minecraft que escolher. Neste ambiente, demonstramos apenas a última versão do Forge 1.8.
 
 <p align="center">
-  <img src="_assets/luckyblock.png" alt="Bloco Lucky Block" width="220">
+  <img src="Assets/luckyblock.png" alt="Bloco Lucky Block" width="220">
 </p>
 
 ## O que vem no pacote
 
 - `1.8/mods/`: mods e dependências para a instalação Forge 1.8.
 - `1.8/lucky-blocks/`: addons com diferentes temas e efeitos de Lucky Block.
-- `_assets/`: imagens usadas neste README.
+- `Assets/`: imagens usadas neste README.
 
 ### Mods incluídos
 
@@ -31,9 +31,9 @@ A pasta `1.8/lucky-blocks/` contém addons como Emerald, Fantos, Water, Spiral, 
 <details>
 <summary>Screenshots</summary>
 
-![Luck Blocks](_assets/screenshots/screenshot1.png)
+![Luck Blocks](Assets/screenshots/screenshot1.png)
 
-![Luck Blocks](_assets/screenshots/screenshot2.png)
+![Luck Blocks](Assets/screenshots/screenshot2.png)
 
 </details>
 
